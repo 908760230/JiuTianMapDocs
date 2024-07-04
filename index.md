@@ -4,7 +4,7 @@ layout: home
 
 hero:
   name: "JiuTianMap"
-  text: "this is JiuTianMap Document"
+  text: "this is JiuTianMap document"
   tagline: My great project tagline
   actions:
     - theme: brand
